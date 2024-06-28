@@ -1,2 +1,3 @@
 # Project-1
-This is project
+This project is amazone clone and only using html and css.
+THANK YOU
